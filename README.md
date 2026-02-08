@@ -96,15 +96,6 @@ src/
     └── ServidorGUI.form
 usuarios.txt  (generado en runtime)
 ```
-
-## Capturas de Pantalla
-
-*(Agrega imágenes aquí si las tienes, por ejemplo:)*
-- Pantalla de Inicio: ![Pantalla Inicio](imagenes/pantalla-inicio.png)
-- Menú Principal: ![Menú Principal](imagenes/menu-principal.png)
-- Chat Cliente: ![Chat](imagenes/chat-cliente.png)
-- Servidor GUI: ![Servidor](imagenes/servidor-gui.png)
-
 ## Contribuciones
 
 Si deseas contribuir:
